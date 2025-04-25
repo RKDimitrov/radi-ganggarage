@@ -1,9 +1,9 @@
 # radi-ganggarage
 Gang garage for grabbing gang related vehicles
 
-#THIS SCRIPT IS NOT AN ORIGINAL!!!
-#IT'S A REWORK OF JIM-JOBGARAGE CONVERTED INTO GANGS!!!
-#ALL CREDIT GOES TO HIM! @jimathy
+# THIS SCRIPT IS NOT AN ORIGINAL!!!
+# IT'S A REWORK OF JIM-JOBGARAGE CONVERTED INTO GANGS!!!
+# ALL CREDIT GOES TO HIM! @jimathy
 
 ---
 # What is this?
